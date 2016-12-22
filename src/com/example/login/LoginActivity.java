@@ -47,7 +47,7 @@ public class LoginActivity extends Activity {
 		password.setOnClickListener(new View.OnClickListener() {
 				@Override
 				public void onClick(View v) {
-					password.setText("");
+					password.setText("222");
 				}
 			});
 		}
